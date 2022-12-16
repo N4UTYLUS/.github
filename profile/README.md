@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/120685946?s=200&v=4" width="400" alt="Nautilus">
-</p>
-
 # O que é?
 
 Uma comunidade para compartilhar e desenvolver conhecimentos sobre criptografia.
